@@ -29,6 +29,11 @@ s1 vpn status
 Status should show a handshake in the last two minutes. Staff addresses come
 from `10.40.0.0/16`.
 
+## MTU
+
+Some home routers choke on large packets. If pages half load, set the MTU
+on the WireGuard interface to 1280.
+
 ## If it does not connect
 
 1. Check you are not on a guest network that blocks UDP.
