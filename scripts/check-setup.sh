@@ -11,7 +11,7 @@ bad()  { printf '  FAIL  %s\n' "$1"; fails=$((fails+1)); }
 fails=0
 
 echo "Commands"
-for c in git s1 wg; do
+for c in git s1 wg curl; do
   command -v "$c" >/dev/null 2>&1 && ok "$c" || bad "$c not found"
 done
 
