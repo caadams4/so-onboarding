@@ -26,4 +26,7 @@ Raise a `CIT` ticket for anything in the table marked "Corporate IT" and a
 `PLAT` ticket for git or VPN problems. Put your office and pod in the
 description; it saves a round trip.
 
+If you have not received the text with your temporary password by 10:00 on
+day one, tell your buddy. Mobile numbers on file are sometimes out of date.
+
 Never share a password in the team chat, even with IT. IT will never ask.

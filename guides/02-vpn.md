@@ -16,7 +16,8 @@ This writes a WireGuard config to `~/.config/s1/vpn/` and prints the public
 key. Your profile is tied to your directory login, so you will be asked to
 sign in through the browser.
 
-Import the file into the WireGuard client on your laptop. Managed desktops
+Import the file into the WireGuard client on your laptop (the `s1 vpn up`
+command does this for you on Linux). Managed desktops
 already have the client; Linux laptops need the `wireguard-tools` package.
 
 ## Connect
