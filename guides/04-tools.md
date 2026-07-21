@@ -29,7 +29,9 @@ Most of you will only need `s1 vpn` and, later, `s1 logs <service>`.
 
 ## Timesheets
 
-Fill in Ledgerline daily. Finance runs the billing export monthly.
+Fill in Ledgerline daily. Finance runs the billing export monthly, and the
+weekly cutoff for approvals is Monday 12:00 UK time. Late entries are fine,
+but they roll into the next export.
 
 ## Git
 
