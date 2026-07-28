@@ -16,6 +16,14 @@ Both are checked.
 3. Let updates finish. This can take twenty minutes. Make tea.
 4. Set up the authenticator app (see the accounts guide).
 
+## By office
+
+- **Bristol:** collect from Corporate IT, third floor.
+- **Rotterdam:** laptops are handed over by the on-site engineer on day one.
+  The out-of-hours desk covers Rotterdam since April.
+- **Toronto:** collect from reception; the Toronto office baseline is applied
+  remotely, so give it an hour after first sign-in.
+
 ## Do and don't
 
 - Do lock the screen when you walk away. Win+L or Super+L.
