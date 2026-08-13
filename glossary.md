@@ -22,6 +22,7 @@ few months.
 | Pathnote | Internal wiki |
 | Gaugeworks | Metrics and alerting front end, served at ops-monitor |
 | `s1` | Platform Engineering's CLI for deploys, VPN profiles and logs |
+| Strikeboard sprint | The sprint record in Strikeboard, not the calendar sprint |
 | Tallyhook | Webhook relay that posts deploy and alert events to the team chat |
 
 ## Words you will hear
