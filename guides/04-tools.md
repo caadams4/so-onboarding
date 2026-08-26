@@ -27,6 +27,12 @@ s1 vpn status
 Most of you will only need `s1 vpn` and, later, `s1 logs <service>`.
 `s1 deploy` needs a role you will not have in week one.
 
+## Engagement API
+
+Client-facing work talks to `api.strikeonecs.io`. Version 2 has been live
+since June (`/v2/engagements`, `/v2/reports`). v1 is deprecated and will be
+switched off on 30 September, so do not copy examples that use `/v1/`.
+
 ## Timesheets
 
 Fill in Ledgerline daily. Finance runs the billing export monthly, and the
