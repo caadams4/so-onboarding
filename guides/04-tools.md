@@ -39,6 +39,17 @@ Fill in Ledgerline daily. Finance runs the billing export monthly, and the
 weekly cutoff for approvals is Monday 12:00 UK time. Late entries are fine,
 but they roll into the next export.
 
+## Local databases
+
+Services use PostgreSQL 16 in production since 7 Sep. If you run a local
+container for an engagement, use the 16 image so behaviour matches:
+
+```
+docker run --rm -e POSTGRES_PASSWORD="$PGPASSWORD" -p 5432:5432 postgres:16
+```
+
+Set `PGPASSWORD` in your shell first; never write it into a file in a repo.
+
 ## Git
 
 Repos live under groups `platform/`, `delivery/`, `data/` and `marketing/`.
