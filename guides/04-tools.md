@@ -30,8 +30,8 @@ Most of you will only need `s1 vpn` and, later, `s1 logs <service>`.
 ## Engagement API
 
 Client-facing work talks to `api.strikeonecs.io`. Version 2 has been live
-since June (`/v2/engagements`, `/v2/reports`). v1 is deprecated and will be
-switched off on 30 September, so do not copy examples that use `/v1/`.
+since June (`/v2/engagements`, `/v2/reports`). v1 was switched off on 30 September; any example that uses `/v1/` is out
+of date.
 
 ## Audit logging
 
