@@ -21,6 +21,7 @@ for h in "$VPN_HOST" wiki.corp.strikeonecs.io git.corp.strikeonecs.io; do
 done
 
 echo "VPN"
+# gateway pair moved 12 Oct; the name is stable, so no host list here
 if command -v s1 >/dev/null 2>&1; then
   s1 vpn status >/dev/null 2>&1 && ok "s1 vpn status" || bad "VPN not connected"
 fi
