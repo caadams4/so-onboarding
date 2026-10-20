@@ -18,7 +18,8 @@ Both are checked.
 
 ## By office
 
-- **Bristol:** collect from Corporate IT, third floor.
+- **Bristol:** collect from Corporate IT, third floor (the floor was
+  reorganised over the 17/18 Oct weekend; follow the signs from the lifts).
 - **Rotterdam:** laptops are handed over by the on-site engineer on day one.
   The out-of-hours desk covers Rotterdam since April.
 - **Toronto:** collect from reception; the Toronto office baseline is applied
