@@ -35,9 +35,10 @@ of date.
 
 ## Audit logging
 
-The engagement API and `s1` use the Rootline SDK for audit events. We are
-pinned to 2.5.x until PLAT-388 is done, so if you add it to a project, pin
-the same range (`>=2.5,<2.6`).
+The engagement API and `s1` use the Rootline SDK for audit events. We moved
+to Rootline 3.0 on 2 November (release `v2026.11.1`). New projects should
+use the 3.x range (`>=3.0,<4.0`); the event envelope format changed, so old
+2.x snippets will not work.
 
 ## Timesheets
 
