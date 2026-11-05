@@ -28,4 +28,13 @@ Who does what, so you know where to ask. Headcounts are approximate.
 - Kofi Marchetti, engagement manager, Pod Kite (Rotterdam).
 - Dana Whitcombe-Ruiz, marketing operations analyst (Toronto).
 
+## Where to ask
+
+| Question | Place |
+|---|---|
+| VPN, git, CI | Platform channel, then a `PLAT` ticket |
+| Laptop, login | `CIT` ticket; out-of-hours desk after 18:00 |
+| Contracts, leave | People & Payroll |
+| Anything else | Your buddy |
+
 Everyone else is in Pathnote under People.
