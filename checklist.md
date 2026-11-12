@@ -20,7 +20,7 @@ commit ticks to this repo.
 ## Day 3
 - [ ] Ledgerline: first timesheet entry, even if it is only induction time
 - [ ] Meet your pod lead and read the engagement brief
-- [ ] Read the glossary
+- [ ] Read the glossary and the FAQ in `docs/faq.md`
 
 ## Day 4
 - [ ] Shadow a pod stand-up

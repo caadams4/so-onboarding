@@ -35,7 +35,8 @@ the VPN gateway move.
 | `checklist.md` | First-week checklist to copy into your notes |
 | `templates/buddy-checklist.md` | For the colleague looking after a starter |
 | `scripts/check-setup.sh` | Self-check: commands, names, VPN |
-| `docs/` | Archived notes, not current |
+| `docs/faq.md` | FAQ from the summer intake |
+| `docs/intake-2025-notes.md` | Archived 2025 notes, not current |
 
 ## Reading order
 
